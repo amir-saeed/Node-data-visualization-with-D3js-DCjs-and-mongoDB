@@ -1,0 +1,19 @@
+{
+  "name": "nodevisuals",
+  "version": "1.0.0",
+  "description": "node visulaization using d3 and dc js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amir-saeed/Node-data-visualization-with-D3js-DCjs-and-mongoDB.git"
+  },
+  "author": "Amir Saeed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amir-saeed/Node-data-visualization-with-D3js-DCjs-and-mongoDB/issues"
+  },
+  "homepage": "https://github.com/amir-saeed/Node-data-visualization-with-D3js-DCjs-and-mongoDB#readme"
+}
