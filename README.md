@@ -20,6 +20,26 @@ Our powerful server which serves data to the visualization engine and also hosts
 
 The resident No-SQL database which will serve as a fantastic data repository for our project.
 
+## Import CSV in data folder using following command
+
+Navigate to "data" folder and copy the file into "C drive"
+
+type the following command
+
+mongoimport -d donorchoose -c projects --type csv --file C:\projects-min.csv --headerline --upsert
+
+![Alt text](https://raw.githubusercontent.com/amir-saeed/Node-data-visualization-with-D3js-DCjs-and-mongoDB/master/Demo/import_command.png?raw=true "Mongo DB")
+
+## View the imported records using robomongo management studio GUI
+All imported records
+
+![Alt text](https://raw.githubusercontent.com/amir-saeed/Node-data-visualization-with-D3js-DCjs-and-mongoDB/master/Demo/mongo-records.png?raw=true "Mongo DB")
+
+Single record
+
+![Alt text](https://raw.githubusercontent.com/amir-saeed/Node-data-visualization-with-D3js-DCjs-and-mongoDB/master/Demo/mongo-single-record.png?raw=true "Mongo DB")
+
+
 ## Setup
 Navigate to main folder and 
 
@@ -32,25 +52,6 @@ run *node server
 
 and open http://localhost:8080
 
-## Output Screens
-### Import CSV in data folder using following command
-
-Navigate to "data" folder and copy the file into "C drive"
-
-type the following command
-
-mongoimport -d donorchoose -c projects --type csv --file C:\projects-min.csv --headerline --upsert
-
-![Alt text](https://raw.githubusercontent.com/amir-saeed/Node-data-visualization-with-D3js-DCjs-and-mongoDB/master/Demo/import_command.png?raw=true "Mongo DB")
-
-### View the imported records using robomongo management studio GUI
-All imported records
-
-![Alt text](https://raw.githubusercontent.com/amir-saeed/Node-data-visualization-with-D3js-DCjs-and-mongoDB/master/Demo/mongo-records.png?raw=true "Mongo DB")
-
-Single record
-
-![Alt text](https://raw.githubusercontent.com/amir-saeed/Node-data-visualization-with-D3js-DCjs-and-mongoDB/master/Demo/mongo-single-record.png?raw=true "Mongo DB")
 
 ### Final output when you run the application
 
