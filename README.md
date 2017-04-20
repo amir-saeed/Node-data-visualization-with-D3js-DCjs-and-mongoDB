@@ -35,6 +35,12 @@ and open http://localhost:8080
 ## Output Screens
 ### Import CSV in data folder using following command
 
+Navigate to "data" folder and copy the file into "C drive"
+
+type the following command
+
+mongoimport -d donorchoose -c projects --type csv --file C:\projects-min.csv --headerline --upsert
+
 ![Alt text](https://raw.githubusercontent.com/amir-saeed/Node-data-visualization-with-D3js-DCjs-and-mongoDB/master/Demo/import_command.png?raw=true "Mongo DB")
 
 ### View the imported records using robomongo management studio GUI
