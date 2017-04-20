@@ -22,6 +22,10 @@ The resident No-SQL database which will serve as a fantastic data repository for
 
 ## Import CSV in data folder using following command
 
+Open the command prompt, start mongo db by typing "mongod", it will start the mongodb.
+
+Open another command prompt, start the mongo db by typing "mongo", then create new database "donorchoose".
+
 Navigate to "data" folder and copy the file into "C drive"
 
 type the following command
