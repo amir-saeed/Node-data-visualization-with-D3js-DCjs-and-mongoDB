@@ -34,6 +34,21 @@ and open http://localhost:8080
 
 ## Output Screens
 ### Import CSV in data folder using following command
-![Alt text]https://raw.githubusercontent.com/amir-saeed/Node-data-visualization-with-D3js-DCjs-and-mongoDB/master/Demo/import_command.png?raw=true "Mongo DB")
-![Alt text]?raw=true "Mongo DB")
+
+![Alt text](https://raw.githubusercontent.com/amir-saeed/Node-data-visualization-with-D3js-DCjs-and-mongoDB/master/Demo/import_command.png?raw=true "Mongo DB")
+
+### View the imported records using robomongo management studio GUI
+All imported records
+
+![Alt text](https://raw.githubusercontent.com/amir-saeed/Node-data-visualization-with-D3js-DCjs-and-mongoDB/master/Demo/mongo-records.png?raw=true "Mongo DB")
+
+Single record
+
+![Alt text](https://raw.githubusercontent.com/amir-saeed/Node-data-visualization-with-D3js-DCjs-and-mongoDB/master/Demo/mongo-single-record.png?raw=true "Mongo DB")
+
+### Final output when you run the application
+
+![Alt text](https://raw.githubusercontent.com/amir-saeed/Node-data-visualization-with-D3js-DCjs-and-mongoDB/master/Demo/output.png?raw=true "Mongo DB")
+
+
 
