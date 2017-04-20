@@ -1,7 +1,7 @@
-# Node-data-visualization-with-D3js-DCjs-and-mongoDB
-Node data visualization with D3.js DC.js and mongoDB
+# Data visualization with Node.js, D3.js , DC.js and mongoDB
+Create the visual charts with the data provide in Excel sheet. Import that CSV into mongoDB, then create the charts using D3.js
 
-## The components of our analysis and their function:
+## Commong libraries / framework:
 
 ## D3.js: 
 
@@ -19,3 +19,21 @@ Our powerful server which serves data to the visualization engine and also hosts
 ## Mongo DB: 
 
 The resident No-SQL database which will serve as a fantastic data repository for our project.
+
+## Setup
+Navigate to main folder and 
+
+
+run *npm install*
+
+it will install dependencies. 
+
+run *node server
+
+and open http://localhost:8080
+
+## Output Screens
+### Import CSV in data folder using following command
+![Alt text]https://raw.githubusercontent.com/amir-saeed/Node-data-visualization-with-D3js-DCjs-and-mongoDB/master/Demo/import_command.png?raw=true "Mongo DB")
+![Alt text]?raw=true "Mongo DB")
+
