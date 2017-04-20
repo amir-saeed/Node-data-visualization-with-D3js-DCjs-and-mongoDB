@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/amir-saeed/Node-data-visualization-with-D3js-DCjs-and-mongoDB/issues"
   },
-  "homepage": "https://github.com/amir-saeed/Node-data-visualization-with-D3js-DCjs-and-mongoDB#readme"
+  "homepage": "https://github.com/amir-saeed/Node-data-visualization-with-D3js-DCjs-and-mongoDB#readme",
+  "devDependencies": {
+    "body-parser": "^1.17.1",
+    "crossfilter": "^1.3.12",
+    "d3": "^4.8.0",
+    "dc": "^2.0.2",
+    "express": "^4.15.2",
+    "html5shiv": "^3.7.3",
+    "jquery": "^3.2.1",
+    "method-override": "^2.3.8",
+    "mongoose": "^4.9.5",
+    "queue": "^4.2.1"
+  }
 }

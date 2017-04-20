@@ -1,0 +1,1 @@
+mongoimport -d donorchoose -c projects --type csv --file C:\projects-min.csv --headerline --upsert
